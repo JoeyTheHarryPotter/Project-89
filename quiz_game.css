@@ -1,6 +1,6 @@
 body
 {
-	background: lightblue;
+	background: red;
 }
 
 	.login_div1 , .login_div2
@@ -17,7 +17,7 @@ body
 	display: inline-block;
 	margin-left: 20px;
 }
-#word
+#answer
 {
 	width: 60%;
 }
